@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/gradient_drawable.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/pink.xml" value="0.2085" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/drawable/rounded_outline.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_cek_email.xml" value="0.25" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_chat_list.xml" value="0.264" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_forget_pass.xml" value="0.22" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_profile_pic.xml" value="0.1" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_profile_settings.xml" value="0.25" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_room_chat.xml" value="0.25" />
+        <entry key="..\:/KULIAH/CODING/6. ANDROID/PraktikumMobile/NgobrolKuy-master/NgobrolKuy-master/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
